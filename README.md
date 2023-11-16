@@ -19,7 +19,8 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/Omar Amer" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Amer-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+[![linkedin]https://www.linkedin.com/in/omar-amer-b80114271?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaygdFuL2SjWo%2Fd0u9h8Lbg%3D%3D](https://www.linkedin.com/)
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
